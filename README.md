@@ -1,4 +1,4 @@
 ACPlugInTemplate
 ================
 
-Vorlage zur Erstellung von Erweiterungen (PlugIns) für das Aufgaben-Center
+Vorlage zur Erstellung von Erweiterungen (PlugIns) für das Aufgaben-Center.
