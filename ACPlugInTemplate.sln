@@ -3,18 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ACPlugInTemplate", "ACPlugInTemplate\ACPlugInTemplate.vbproj", "{4E4F95B2-2EFB-4A78-9B60-12D1C4CAEF5B}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ACPlugInTemplate", "ACPlugInTemplate\ACPlugInTemplate.vbproj", "{910AE91A-D4B9-4394-9271-BDAE858377DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektdateien", "Projektdateien", "{11761EDB-BCCD-456C-8AE9-D8B127F7E080}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Description = ACPlugInTemplate
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4E4F95B2-2EFB-4A78-9B60-12D1C4CAEF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E4F95B2-2EFB-4A78-9B60-12D1C4CAEF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E4F95B2-2EFB-4A78-9B60-12D1C4CAEF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E4F95B2-2EFB-4A78-9B60-12D1C4CAEF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910AE91A-D4B9-4394-9271-BDAE858377DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910AE91A-D4B9-4394-9271-BDAE858377DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910AE91A-D4B9-4394-9271-BDAE858377DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910AE91A-D4B9-4394-9271-BDAE858377DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
